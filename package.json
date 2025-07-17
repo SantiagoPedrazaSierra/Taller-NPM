@@ -1,0 +1,25 @@
+{
+  "name": "taller-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "filtro.js",
+  "dependencies": {
+    "bad-words": "^4.0.0",
+    "badwords-list": "^2.0.1-4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoPedrazaSierra/Taller-NPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoPedrazaSierra/Taller-NPM/issues"
+  },
+  "homepage": "https://github.com/SantiagoPedrazaSierra/Taller-NPM#readme"
+}
